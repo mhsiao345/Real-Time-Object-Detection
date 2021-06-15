@@ -1,4 +1,4 @@
-### Real-Time-Object-Detection
+### Real-Time-Object-Detection (Computer Vision)
 
 Marcos Hsiao - June 14, 2021
 
