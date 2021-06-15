@@ -1,5 +1,6 @@
 ### Real-Time-Object-Detection
-### Marcos Hsiao - June 14, 2021
+
+Marcos Hsiao - June 14, 2021
 
 https://youtu.be/bxLWKO4Emys
 
